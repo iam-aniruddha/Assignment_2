@@ -1,0 +1,46 @@
+Required Dependencies - 
+
+
+For Question 1 -
+it does not have any external dependencies.
+
+
+For Question 2 -
+it requires the PrettyTable library to create a formatted table for displaying the output.
+To run this code successfully, we need to have the PrettyTable library installed.
+we can install the PrettyTable library using pip by running the following command in our terminal or command prompt:
+
+"pip install PrettyTable"
+
+Once we have installed the PrettyTable library, we can run the code.
+
+It also imports the WeekDaysAnalyzer class from a file named Ques_1.py,
+which contains the class definition used to generate data for the table.
+
+
+
+for Question 3 -
+
+it requires the pandas library to work with dataframes and save the output table to an Excel file.
+To run this code successfully, we need to have the pandas library installed.
+we can install the pandas library using pip by running the following command in our terminal or command prompt:
+
+"pip install pandas"
+
+Once we have installed the pandas library, we can run the code.
+It imports the create_table function from a file named Ques_2.py,
+which generates the table data using the PrettyTable library as mentioned in Question 2.
+
+
+
+for Question 4 -
+
+for that we need to have the pandas and Faker libraries installed. Here's how to install them:
+pandas library: Used for working with dataframes and saving them to Excel files.
+we can install it using pip by running the following command in our terminal or command prompt:
+
+"pip install pandas"
+
+Faker library: Used to generate fake data. we can install it using pip by running the following command in our terminal or command prompt:
+
+"pip install Faker"
