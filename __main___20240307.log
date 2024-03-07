@@ -1,0 +1,5 @@
+__main__ save_to_excel 07-03-24 11:32:33 {'args': ('saved_file.xlsx',)} Execution time: 0.2760 seconds
+__main__ create_table 07-03-24 11:36:52 {} Execution time: 0.0040 seconds
+__main__ create_table 07-03-24 11:37:24 {} Execution time: 0.0011 seconds
+__main__ save_to_excel 07-03-24 11:37:54 {'args': ('saved_file.xlsx',)} Execution time: 0.1651 seconds
+__main__ save_to_excel 07-03-24 11:40:30 {'args': ('saved_file.xlsx',)} Execution time: 0.1590 seconds

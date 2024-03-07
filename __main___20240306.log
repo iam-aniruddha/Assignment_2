@@ -1,0 +1,10 @@
+__main__ consecutive_days 06-03-24 16:16:31 {'args': (<__main__.WeekDaysAnalyzer object at 0x000001E9A92F02C0>,)} Execution time: 0.0000 seconds
+__main__ days_dictionary 06-03-24 16:16:31 {'args': (<__main__.WeekDaysAnalyzer object at 0x000001E9A92F02C0>,)} Execution time: 0.0000 seconds
+__main__ compute_character_occurrences 06-03-24 16:16:31 {'args': (<__main__.WeekDaysAnalyzer object at 0x000001E9A92F02C0>,)} Execution time: 0.0000 seconds
+__main__ create_table 06-03-24 16:16:34 {} Execution time: 0.0020 seconds
+__main__ save_to_excel 06-03-24 16:16:39 {'args': ('saved_file.xlsx',)} Execution time: 0.1540 seconds
+__main__ get_top_salary_employee 06-03-24 16:16:43 {'args': (<__main__.EmployeeData object at 0x00000183483376B0>,)} Execution time: 0.0000 seconds
+__main__ get_top_aggregated_unit 06-03-24 16:16:43 {'args': (<__main__.EmployeeData object at 0x00000183483376B0>,)} Execution time: 0.0011 seconds
+__main__ get_top_salary_per_unit_employee 06-03-24 16:16:43 {'args': (<__main__.EmployeeData object at 0x00000183483376B0>,)} Execution time: 0.0020 seconds
+__main__ delete_lowest_salary_employee 06-03-24 16:16:43 {'args': (<__main__.EmployeeData object at 0x00000183483376B0>,)} Execution time: 0.0190 seconds
+__main__ update_salary 06-03-24 16:16:43 {'args': (<__main__.EmployeeData object at 0x00000183483376B0>,), 'kwargs': {'emp_id': 12345, 'new_salary': 80000}} Execution time: 0.0000 seconds
